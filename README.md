@@ -28,7 +28,7 @@ Poke-Bot is a Python automation script built to streamline the capture of rare-f
    pip install -r requirements.txt
    ```
 
-4. Prepare the Game:
+4. Prepare the game:
     - Put a Pokémon with False Swipe at the front of your party.
     - Have plenty of regular Poké Balls.
     - Stand in tall grass where you can move between two patches with obstacles nearby (to keep         you from wandering away from tall grass).
