@@ -13,7 +13,7 @@ Poke-Bot is a Python automation script built to streamline the capture of rare-f
 1. Clone the repository:
 
    ```
-   git clone https://github.com/jerrystamm/yoshi-rl.git
+   git clone https://github.com/jerrystamm/poke-bot.git
    ```
 
 2. Navigate to the project directory:
